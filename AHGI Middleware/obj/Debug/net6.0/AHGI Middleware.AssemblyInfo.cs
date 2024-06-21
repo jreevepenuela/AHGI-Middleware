@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AHGI Middleware")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04849d1a81c7b7ccae82fd51fad0278744b7c7c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c69dd8a868331dbd3942fc118e8f222c7cdfc629")]
 [assembly: System.Reflection.AssemblyProductAttribute("AHGI Middleware")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AHGI Middleware")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
