@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AHGI_Middleware", "AHGI_Middleware.csproj", "{4EA826A5-98F3-456F-B137-05CA4B11C551}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EA826A5-98F3-456F-B137-05CA4B11C551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA826A5-98F3-456F-B137-05CA4B11C551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA826A5-98F3-456F-B137-05CA4B11C551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA826A5-98F3-456F-B137-05CA4B11C551}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84138DA7-BC64-4521-AB00-E52AFBC515DE}
+	EndGlobalSection
+EndGlobal
